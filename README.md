@@ -1,3 +1,5 @@
 # Simple Calculator
 
 ## Mobile
+
+## Tablet
