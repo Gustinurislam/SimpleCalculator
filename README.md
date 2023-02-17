@@ -1,3 +1,1 @@
-# Calculator
-
-## Test
+# Simple Calculator
