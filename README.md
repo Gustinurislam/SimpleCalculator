@@ -1,4 +1,4 @@
-# Simple Calculator
+# Simple Calculator v1
 
 ## Mobile
 ![Mobile View](ui/mobile.png)
